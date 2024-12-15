@@ -8,7 +8,7 @@ Thanks to [event_representation_study](https://github.com/uzh-rpg/event_represen
 ### NCAR
 NCAR dataset can be obtained from [there](https://www.prophesee.ai/2018/03/13/dataset-n-cars/)
 ## MESTOR
-Before the Raw event stream is input into the subsequent network, it needs to be processed by MESTOR to integrate the input feature from multi-scales. 
+Before the Raw event stream is input into the subsequent network, it needs to be processed by MESTOR to integrate the input feature from multi-scales.   
 Using MESTOR to process the GEN1 dataset:
 ```
 python gen1data/MESTOR_gen1.py
