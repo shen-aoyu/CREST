@@ -29,5 +29,5 @@ python train_yolo.py
 
 ## Code Acknowledgments
 This project has used code from the following projects:  
-U+2022 [event_representation_study](https://github.com/uzh-rpg/event_representation_study)   
-U+2022 [PyTorch_YOLO-Family](https://github.com/yjh0410/PyTorch_YOLO-Family)  
+* [event_representation_study](https://github.com/uzh-rpg/event_representation_study)   
+* [PyTorch_YOLO-Family](https://github.com/yjh0410/PyTorch_YOLO-Family)  
