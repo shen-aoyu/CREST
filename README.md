@@ -15,8 +15,13 @@ python gen1data/MESTOR_gen1.py
 ```
 ## Object Detection
 ### Evaluation
+```
+python eval_yolo.py
+```
 ### Training
-
+```
+python train_yolo.py
+```
 
 ## Object Recognition
 
