@@ -14,7 +14,7 @@ Using MESTOR to process the GEN1 dataset:
 python gen1data/MESTOR_gen1.py
 ```
 ## Pre-trained Checkpoints
-[Gen1_yolotiny]()
+[Gen1_yolotiny](https://drive.google.com/drive/folders/1DnfbxD-rGOvF2IIwCtaqbqxOMmUgFIBI?usp=sharing)
 ## Object Detection
 ### Evaluation
 ```
