@@ -7,7 +7,7 @@ def FLOPs_and_Params(model, size):
     x = torch.randn(1, 3, size, size).to(device)
 
     flops, params = profile(model, inputs=(x, ))
-    print('FLOPs : ', flops / 1e9, ' G')
+    print('MACs : ', flops / 1e9, ' G')
     print('Params : ', params / 1e6, ' M')
 
 
