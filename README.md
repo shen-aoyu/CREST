@@ -46,4 +46,5 @@ This project has used code from the following projects:
 * [FS-neurons](https://github.com/christophstoeckl/FS-neurons)
 * [event_representation_study](https://github.com/uzh-rpg/event_representation_study)   
 * [PyTorch_YOLO-Family](https://github.com/yjh0410/PyTorch_YOLO-Family)
+* [DOTIE](https://github.com/manishnagaraj/DOTIE)
 
