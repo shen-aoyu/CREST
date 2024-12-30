@@ -42,8 +42,8 @@ python train_yolo.py
 ## Object Recognition
 
 ### NCAR Datasets and Checkpoints
-[NCAR](https://drive.google.com/drive/folders/1DnfbxD-rGOvF2IIwCtaqbqxOMmUgFIBI?usp=sharing)
-
+Preprocessed [NCAR Datasets](https://drive.google.com/drive/folders/1HH_iZYUBovV5dfCkJb26go-KMRoP-YRi?usp=sharing) by MESTOR.
+And [densenet121-16_Checkpoints](https://drive.google.com/drive/folders/1YGOy3joh-iHSQDmmE0_szA22rQcgmSIv?usp=sharing).
 ### Evaluation
 ```
 python ncar/eval_densenet121-16.py
