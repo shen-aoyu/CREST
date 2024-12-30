@@ -41,6 +41,18 @@ python train_yolo.py
 
 ## Object Recognition
 
+### NCAR Datasets and Checkpoints
+[NCAR](https://drive.google.com/drive/folders/1DnfbxD-rGOvF2IIwCtaqbqxOMmUgFIBI?usp=sharing)
+
+### Evaluation
+```
+python ncar/eval_densenet121-16.py
+```
+### Training
+```
+python ncar/train_densenet121-16.py
+```
+
 ## Code Acknowledgments
 This project has used code from the following projects:  
 * [FS-neurons](https://github.com/christophstoeckl/FS-neurons)
