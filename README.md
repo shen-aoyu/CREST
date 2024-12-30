@@ -60,4 +60,5 @@ This project has used code from the following projects:
 * [event_representation_study](https://github.com/uzh-rpg/event_representation_study)   
 * [PyTorch_YOLO-Family](https://github.com/yjh0410/PyTorch_YOLO-Family)
 * [DOTIE](https://github.com/manishnagaraj/DOTIE)
+* [object-detection-with-spiking-neural-networks](https://github.com/loiccordone/object-detection-with-spiking-neural-networks)
 
