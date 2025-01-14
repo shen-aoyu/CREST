@@ -484,7 +484,7 @@ def main():
 
         SR_all = SR_all  / K[-1] / float(total)
     
-        print('\n', 'Best-epoch/test Accuracy of the cnn on the 10000 test images: %.3f-%d/%.3f' % (best_acc,best_epoch,acc))
+        print('\n', 'Best-epoch/test Accuracy : %.3f-%d/%.3f' % (best_acc,best_epoch,acc))
     
         print("average spikes number: ", '\n')
         print(str(SR_all)[:5], '\n')
