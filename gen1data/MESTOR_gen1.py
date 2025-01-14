@@ -16,6 +16,7 @@ from torch.utils.data import Dataset
 
 import torch
 import h5py
+import hdf5plugin
 
 
 VOC_CLASSES = (    # always index 0
