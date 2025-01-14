@@ -435,7 +435,7 @@ if __name__ == "__main__":
             to_pil = transforms.ToPILImage()  
             rgb_image = to_pil(BIN_IN)  
 
-            rgb_image.save(f'./a2_testing_3ch/{item}.jpg')
+            rgb_image.save(f'./testing_3ch/{item}.jpg')
 
 
             BIN = None
