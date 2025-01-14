@@ -458,7 +458,7 @@ def main():
         
 
     
-        print('\n', 'Best-epoch/test Accuracy of the cnn on the 10000 test images: %.3f-%d/%.3f' % (best_acc,best_epoch,acc))
+        print('\n', 'Best-epoch/test Accuracy : %.3f-%d/%.3f' % (best_acc,best_epoch,acc))
     
         print("average spikes number: ", '\n')
 
