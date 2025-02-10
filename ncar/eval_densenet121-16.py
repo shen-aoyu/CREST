@@ -486,7 +486,7 @@ def main():
     
         print('\n', 'Best-epoch/test Accuracy : %.3f-%d/%.3f' % (best_acc,best_epoch,acc))
     
-        print("average spikes number: ", '\n')
+        print("fr: ", '\n')
         print(str(SR_all)[:5], '\n')
         break
 
