@@ -179,7 +179,6 @@ class COCOAPIEvaluator():
                     SC = SC + sc
                 
                 
-#                print('bboxes[0]',bboxes[0])
                 
                 
                 
@@ -244,9 +243,9 @@ class COCOAPIEvaluator():
         annType = ['segm', 'bbox', 'keypoints']
         
         SC =SC / num_images
-        print('SC',SC)
+        print('fr',SC)
         
-        #print('len(data_dict)',len(data_dict))
+
 
         # Evaluate the Dt (detection) json comparing with the ground truth
         if len(data_dict) > 0:
